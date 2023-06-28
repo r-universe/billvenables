@@ -1,80 +1,49 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bannerCommenter"]
 	path = bannerCommenter
 	url = https://github.com/cran/bannerCommenter
-	shallow = true
-	registered = true
 [submodule "codingMatrices"]
 	path = codingMatrices
 	url = https://github.com/cran/codingMatrices
-	shallow = true
-	registered = true
 [submodule "conf.design"]
 	path = conf.design
 	url = https://github.com/cran/conf.design
-	shallow = true
-	registered = true
 [submodule "demoKde"]
 	path = demoKde
 	url = https://github.com/cran/demoKde
-	shallow = true
-	registered = true
 [submodule "english"]
 	path = english
 	url = https://github.com/cran/english
-	shallow = true
-	registered = true
 [submodule "fractional"]
 	path = fractional
 	url = https://github.com/cran/fractional
-	shallow = true
-	registered = true
 [submodule "frenchCurve"]
 	path = frenchCurve
 	url = https://github.com/cran/frenchCurve
-	shallow = true
-	registered = true
 [submodule "JacobiEigen"]
 	path = JacobiEigen
 	url = https://github.com/cran/JacobiEigen
-	shallow = true
-	registered = true
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
-	shallow = true
-	registered = true
 [submodule "MASSExtra"]
 	path = MASSExtra
 	url = https://github.com/cran/MASSExtra
-	shallow = true
-	registered = true
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
-	shallow = true
-	registered = true
 [submodule "polynom"]
 	path = polynom
 	url = https://github.com/cran/polynom
-	shallow = true
-	registered = true
 [submodule "PolynomF"]
 	path = PolynomF
 	url = https://github.com/cran/PolynomF
-	shallow = true
-	registered = true
 [submodule "SOAR"]
 	path = SOAR
 	url = https://github.com/cran/SOAR
-	shallow = true
-	registered = true
 [submodule "sudokuAlt"]
 	path = sudokuAlt
 	url = https://github.com/cran/sudokuAlt
-	shallow = true
-	registered = true
