@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "JacobiEigen"]
+	path = JacobiEigen
+	url = https://github.com/cran/JacobiEigen
+[submodule "MASSExtra"]
+	path = MASSExtra
+	url = https://github.com/cran/MASSExtra
+[submodule "PolynomF"]
+	path = PolynomF
+	url = https://github.com/cran/PolynomF
+[submodule "SOAR"]
+	path = SOAR
+	url = https://github.com/cran/SOAR
 [submodule "bannerCommenter"]
 	path = bannerCommenter
 	url = https://github.com/cran/bannerCommenter
@@ -23,27 +35,15 @@
 [submodule "frenchCurve"]
 	path = frenchCurve
 	url = https://github.com/cran/frenchCurve
-[submodule "JacobiEigen"]
-	path = JacobiEigen
-	url = https://github.com/cran/JacobiEigen
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
-[submodule "MASSExtra"]
-	path = MASSExtra
-	url = https://github.com/cran/MASSExtra
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
 [submodule "polynom"]
 	path = polynom
 	url = https://github.com/cran/polynom
-[submodule "PolynomF"]
-	path = PolynomF
-	url = https://github.com/cran/PolynomF
-[submodule "SOAR"]
-	path = SOAR
-	url = https://github.com/cran/SOAR
 [submodule "sudokuAlt"]
 	path = sudokuAlt
 	url = https://github.com/cran/sudokuAlt
